@@ -38,7 +38,7 @@ A comprehensive collection of my developer tools, utilities, software stack, and
 ### AI Assistant Tools & Libraries
 [![Claude Code](https://img.shields.io/badge/Claude%20Code-1B1B1B?style=for-the-badge&logo=anthropic&logoColor=white)](https://claude.ai/)
 [![Gemini CLI](https://img.shields.io/badge/Gemini%20CLI-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://ai.google.dev/)
-[![Antigravity](https://img.shields.io/badge/Antigravity-FF6B6B?style=for-the-badge&logo=python&logoColor=white)](https://docs.python.org/3/library/antigravity.html)
+[![Antigravity](https://img.shields.io/badge/Antigravity-Active-blue?logo=google-antigravity&logoColor=white)](https://antigravity.google)
 [![Cursor IDE](https://img.shields.io/badge/Cursor%20IDE-00D4FF?style=for-the-badge&logo=cursor&logoColor=white)](https://www.cursor.com/)
 [![OpenCode](https://img.shields.io/badge/OpenCode-FF6B6B?style=for-the-badge&logo=code&logoColor=white)](https://github.com/intel/openvino)
 [![Codex](https://img.shields.io/badge/Codex-FFD60A?style=for-the-badge&logo=openai&logoColor=black)](https://openai.com/blog/openai-codex/)
