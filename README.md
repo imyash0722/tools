@@ -2,14 +2,6 @@
 
 A comprehensive collection of my developer tools, utilities, software stack, and curated open-source projects.
 
-## 📚 Table of Contents
-- [Tech Stack](#tech-stack)
-- [Useful Software](#useful-software)
-- [My Tools & Projects](#my-tools--projects)
-- [MCP Resources](#mcp-resources)
-
----
-
 ## 🛠️ Tech Stack
 
 ### Languages
