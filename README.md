@@ -28,7 +28,7 @@ A comprehensive collection of my developer tools, utilities, software stack, and
 ## 🧑‍💻 AI Assistant Tools & Libraries
 [![Claude Code](https://img.shields.io/badge/Claude%20Code-1B1B1B?style=for-the-badge&logo=anthropic&logoColor=white)](https://claude.ai/)
 [![Gemini CLI](https://img.shields.io/badge/Gemini%20CLI-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://ai.google.dev/)
-[![Antigravity](https://img.shields.io/badge/Antigravity-Active-blue?logo=google-antigravity&logoColor=white)](https://antigravity.google)
+[![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://antigravity.google)
 [![Cursor IDE](https://img.shields.io/badge/Cursor%20IDE-00D4FF?style=for-the-badge&logo=cursor&logoColor=white)](https://www.cursor.com/)
 [![OpenCode](https://img.shields.io/badge/OpenCode-FF6B6B?style=for-the-badge&logo=code&logoColor=white)](https://github.com/intel/openvino)
 [![Codex](https://img.shields.io/badge/Codex-FFD60A?style=for-the-badge&logo=openai&logoColor=black)](https://openai.com/blog/openai-codex/)
@@ -42,15 +42,7 @@ A comprehensive collection of my developer tools, utilities, software stack, and
 
 A curated collection of Model Context Protocol resources and implementations:
 
-- [playwright-mcp](https://github.com/microsoft/playwright-mcp) - Microsoft Playwright MCP
-- [mcp-ide-bridge](https://github.com/Mvp2o-ai/mcp-ide-bridge) - IDE Bridge for MCP
-- [antigravity-skills](https://github.com/rmyndharis/antigravity-skills) - Antigravity Skills
-- [Figma-Context-MCP](https://github.com/GLips/Figma-Context-MCP) - Figma Context Protocol
-- [genai-toolbox](https://github.com/googleapis/genai-toolbox) - Google Generative AI Toolbox
-- [github-mcp-server](https://github.com/github/github-mcp-server) - GitHub MCP Server
-- [chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools MCP
-- [BrowserMCP](https://github.com/BrowserMCP/mcp) - Browser MCP Implementation
-
+[![playwright-mcp](https://img.shields.io/badge/Playwright-MCP-563D7C?style=for-the-badge&logo=microsoft-edge&logoColor=white)](https://github.com/microsoft/playwright-mcp) [![mcp-ide-bridge](https://img.shields.io/badge/MCP-IDE%20Bridge-FF9900?style=for-the-badge&logo=code&logoColor=white)](https://github.com/Mvp2o-ai/mcp-ide-bridge) [![antigravity-skills](https://img.shields.io/badge/Antigravity-Skills-1F6FEB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rmyndharis/antigravity-skills) [![figma-context-mcp](https://img.shields.io/badge/Figma-Context%20MCP-FF7E1D?style=for-the-badge&logo=figma&logoColor=white)](https://github.com/GLips/Figma-Context-MCP) [![genai-toolbox](https://img.shields.io/badge/GenAI-Toolbox-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://github.com/googleapis/genai-toolbox) [![github-mcp-server](https://img.shields.io/badge/GitHub-MCP%20Server-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/github/github-mcp-server) [![chrome-devtools-mcp](https://img.shields.io/badge/Chrome-DevTools%20MCP-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/ChromeDevTools/chrome-devtools-mcp) [![browsermcp](https://img.shields.io/badge/Browser-MCP-FFA500?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/BrowserMCP/mcp)
 ## 🚀 My Tools & Projects
 
 I'm actively developing tools and utilities to improve developer workflows. Check out my repositories for more information on the projects I'm building!
