@@ -42,7 +42,12 @@ A comprehensive collection of my developer tools, utilities, software stack, and
 
 A curated collection of Model Context Protocol resources and implementations:
 
-[![playwright-mcp](https://img.shields.io/badge/Playwright-MCP-563D7C?style=for-the-badge&logo=microsoft-edge&logoColor=white)](https://github.com/microsoft/playwright-mcp) [![mcp-ide-bridge](https://img.shields.io/badge/MCP-IDE%20Bridge-FF9900?style=for-the-badge&logo=code&logoColor=white)](https://github.com/Mvp2o-ai/mcp-ide-bridge) [![antigravity-skills](https://img.shields.io/badge/Antigravity-Skills-1F6FEB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rmyndharis/antigravity-skills) [![figma-context-mcp](https://img.shields.io/badge/Figma-Context%20MCP-FF7E1D?style=for-the-badge&logo=figma&logoColor=white)](https://github.com/GLips/Figma-Context-MCP) [![genai-toolbox](https://img.shields.io/badge/GenAI-Toolbox-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://github.com/googleapis/genai-toolbox) [![github-mcp-server](https://img.shields.io/badge/GitHub-MCP%20Server-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/github/github-mcp-server) [![chrome-devtools-mcp](https://img.shields.io/badge/Chrome-DevTools%20MCP-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/ChromeDevTools/chrome-devtools-mcp) [![browsermcp](https://img.shields.io/badge/Browser-MCP-FFA500?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/BrowserMCP/mcp)
+[![playwright-mcp](https://img.shields.io/badge/Playwright-MCP-563D7C?style=for-the-badge&logo=microsoft-edge&logoColor=white)](https://github.com/microsoft/playwright-mcp) 
+[![antigravity-skills](https://img.shields.io/badge/Antigravity-Skills-1F6FEB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rmyndharis/antigravity-skills) 
+[![genai-toolbox](https://img.shields.io/badge/GenAI-Toolbox-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://github.com/googleapis/genai-toolbox) 
+[![github-mcp-server](https://img.shields.io/badge/GitHub-MCP%20Server-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/github/github-mcp-server) 
+[![chrome-devtools-mcp](https://img.shields.io/badge/Chrome-DevTools%20MCP-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/ChromeDevTools/chrome-devtools-mcp) 
+
 ## 🚀 My Tools & Projects
 
 I'm actively developing tools and utilities to improve developer workflows. Check out my repositories for more information on the projects I'm building!
